@@ -3,7 +3,6 @@
 A modular deep learning framework for multimodal speech-based performance analysis in sports, built upon the paper:
 
 > **"Advanced Speech Recognition for Athlete Performance Analysis in Sports Science"**  
-> Heng Wei, Yuze Zhang, 2025
 
 ---
 
@@ -36,7 +35,7 @@ sports-speech-recognition/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sports-speech-recognition.git
+git clone https://github.com/HengWei610/TacVoice.git
 cd sports-speech-recognition
 ```
 
