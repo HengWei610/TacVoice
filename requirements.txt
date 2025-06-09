@@ -1,0 +1,41 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision
+torchaudio
+pytorch-lightning>=2.0.0
+
+# Graph Neural Network Support
+torch-geometric
+torch-scatter
+torch-sparse
+
+# Transformers / Sequence Modeling
+transformers>=4.30.0
+einops
+sentencepiece
+
+# Data Processing & Scientific Computing
+numpy
+scipy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Audio Processing
+librosa
+soundfile
+
+# Experiment Management & Logging
+tqdm
+omegaconf
+tensorboard
+hydra-core
+
+# Explainability (for SHAP analysis)
+shap
+
+# Optional for performance and compatibility
+numba
