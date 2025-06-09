@@ -190,22 +190,22 @@ If you use this work in your research:
 
 ---
 
-## 🚧 Future Development
+
+### 🚧 Future Development
 
 We plan to extend this framework with the following enhancements:
 
 - **Multilingual Speech Support**: Extend speech recognition models to support multiple languages and dialects.
-- **Sport-Specific Adaptation Modules**: Introduce specialized modules for other sports (e.g., basketball, rugby, tennis).
-- **Edge Deployment**: Optimize models using pruning and quantization for edge devices.
-- **Real-Time Tactical Demos**: Link speech input to visual tactical visualizations.
-- **Online Learning**: Enable live adaptation to athlete performance and new speech patterns.
+- **Sport-Specific Adaptation Modules**: Introduce specialized modules for other sports (e.g., basketball, rugby, tennis) with tailored tactical embeddings.
+- **Edge Deployment**: Optimize models using pruning and quantization for real-time inference on edge devices.
+- **In-Game Speech-to-Action Demos**: Create a real-time simulator linking speech input to visualized tactical responses.
+- **Continual Learning Framework**: Integrate online learning to adapt models from live feedback during competitions.
 
-Contributions and forks are welcome!
-```
+We welcome contributions and collaborations from the open-source and academic communities. Please feel free to fork, raise issues, or submit pull requests.
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the **MIT License**.
 
@@ -219,24 +219,26 @@ of this software and associated documentation files (the “Software”), to dea
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions.
+furnished to do so, subject to the following conditions:
+
+[...MIT License continues...]
 ```
 
-See the [LICENSE](./LICENSE) file for the full license text.
+For full terms, see the [LICENSE](./LICENSE) file.
 
 ---
 
-## 🙏 Acknowledgements
+### 🙏 Acknowledgements
 
-This work was supported by:
+We gratefully acknowledge the support from:
 
 - **Shanxi University**, School of Economics and Management  
 - **College of Physical Education**, Shanxi University  
-- **Statistical Science Research Project of Shanxi Province**  
+- **Major Project of Statistical Science Research in Shanxi Province**  
   *(Grant No. 2024D009 – Statistical Monitoring of New Quality Productivity and Its Influence on High-Quality Economic Development)*
 
-Special thanks to open-source contributors and frameworks including:
-- PyTorch, Torch-Geometric, Transformers, librosa
-- SoccerNet and the broader speech recognition community
+Special thanks to open-source libraries and tools including:
+- PyTorch, Torch-Geometric, Transformers, librosa, scikit-learn
+- SoccerNet dataset and the broader speech recognition research community
 
 ---
