@@ -218,9 +218,7 @@ of this software and associated documentation files (the “Software”), to dea
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-...
-```
+furnished to do so, subject to the following conditions.
 
 See the [LICENSE](./LICENSE) file for the full license text.
 
@@ -238,6 +236,5 @@ This work was supported by:
 Special thanks to open-source contributors and frameworks including:
 - PyTorch, Torch-Geometric, Transformers, librosa
 - SoccerNet and the broader speech recognition community
-```
 
 ---
