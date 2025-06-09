@@ -201,6 +201,7 @@ We plan to extend this framework with the following enhancements:
 - **Online Learning**: Enable live adaptation to athlete performance and new speech patterns.
 
 Contributions and forks are welcome!
+```
 
 ---
 
@@ -219,6 +220,7 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions.
+```
 
 See the [LICENSE](./LICENSE) file for the full license text.
 
