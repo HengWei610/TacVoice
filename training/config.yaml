@@ -1,0 +1,23 @@
+encoder:
+  input_dim: 128
+  hidden_dim: 256
+  output_dim: 128
+
+policy:
+  latent_dim: 128
+
+reward:
+  type: "dense"
+  weight_success: 1.0
+  weight_alignment: 0.5
+
+planner:
+  strategy_mode: "opponent_aware"
+
+data:
+  path: "./data/"
+  batch_size: 32
+
+training:
+  epochs: 100
+  lr: 0.001
