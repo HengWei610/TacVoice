@@ -230,13 +230,6 @@ For full terms, see the [LICENSE](./LICENSE) file.
 
 ### 🙏 Acknowledgements
 
-We gratefully acknowledge the support from:
-
-- **Shanxi University**, School of Economics and Management  
-- **College of Physical Education**, Shanxi University  
-- **Major Project of Statistical Science Research in Shanxi Province**  
-  *(Grant No. 2024D009 – Statistical Monitoring of New Quality Productivity and Its Influence on High-Quality Economic Development)*
-
 Special thanks to open-source libraries and tools including:
 - PyTorch, Torch-Geometric, Transformers, librosa, scikit-learn
 - SoccerNet dataset and the broader speech recognition research community
